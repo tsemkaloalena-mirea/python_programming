@@ -59,8 +59,8 @@ def test_fast_pow_gen():
 	print("correct")
 
 
-fast_mul_gen(5, True)
+print(fast_mul_gen(5, True))
 test_fast_mul_gen()
 
-fast_pow_gen(8, 3, True)
+print(fast_pow_gen(8, 3, True))
 test_fast_pow_gen()

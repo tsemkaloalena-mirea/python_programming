@@ -32,6 +32,6 @@ def test_fast_pow():
 
 
 test_fast_mul()
-# print(fast_mul(10, 15))
+print(fast_mul(10, 15))
 test_fast_pow()
-# print(fast_pow(3, 2))
+print(fast_pow(3, 2))
