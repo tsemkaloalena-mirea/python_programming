@@ -19,5 +19,5 @@ def file_tree(start):
 	print("digraph G {\n\t" + ";\n\t".join(graph) + ";\n}")
 
 
-# file_tree("pack")
-file_tree(sys.argv[1])
+file_tree("pack")
+# file_tree(sys.argv[1])

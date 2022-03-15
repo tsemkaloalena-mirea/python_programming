@@ -1,3 +1,2 @@
 i = 0
-print('muchcodewow'[i*4:(i+1)*4])
-print('muchcodewow'[:4])
+print('mcwuoocdwhe'[i::3])
