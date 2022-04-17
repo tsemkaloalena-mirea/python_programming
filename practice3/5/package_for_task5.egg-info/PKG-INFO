@@ -1,0 +1,15 @@
+Metadata-Version: 2.1
+Name: package-for-task5
+Version: 0.1.2
+Summary: This is a test package.
+Author: AlenaTsemkalo
+Author-email: tsemkaloalena@gmail.com
+License: UNKNOWN
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.5
+
+UNKNOWN
+

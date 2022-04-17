@@ -1,0 +1,9 @@
+setup.py
+package_for_task5.egg-info/PKG-INFO
+package_for_task5.egg-info/SOURCES.txt
+package_for_task5.egg-info/dependency_links.txt
+package_for_task5.egg-info/top_level.txt
+task5_package/__init__.py
+task5_package/file.json
+task5_package/module5_1.py
+task5_package/module5_2.py
